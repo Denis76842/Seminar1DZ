@@ -1,2 +1,2 @@
 # Seminar1DZ
-Program.cs - первая задача из ДЗ.
+Program3.cs  - задача 6 из ДЗ
